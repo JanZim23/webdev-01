@@ -1,0 +1,14 @@
+server {
+        listen 80;
+        listen [::]:80;
+
+        root /home/jan/hw01;
+
+        index index.html;
+
+        server_name hw01.jandev.org;
+
+	location / {
+		try_files $uri $uri/ =404;
+	}
+}

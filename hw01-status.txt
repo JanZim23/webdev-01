@@ -1,0 +1,30 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+Jan Zimmermann
+
+2. Which VPS & domain providers did you choose?
+vultr.com
+
+3. What domain name did you register?
+jandev.org
+
+4. What's the URL of your Github repository for this assignment?
+https://github.com/JanZim23/webdev-01
+
+5. Which parts of this assignment did you have trouble with, if any?
+- Transferring Files to Server (ended up using scp)
+- Unsure whether domain provider definitely needs subdomain entries or *.domain automatically refers to the same IP.
+- (The two above were not thaat hard to figure out.)
+Í
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
